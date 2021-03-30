@@ -4,7 +4,7 @@ Simple job portal which shows jobs from Github Jobs API, created with ReactJs an
 
 ## Concepts utilized in this project
 
-Custom hook implementation to fetch job data from API
+Custom hook implementation to fetch job data from API.\
 Search job feature based on location and type of job implemented
 
 ### `yarn start`
